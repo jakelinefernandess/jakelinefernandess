@@ -3,7 +3,7 @@
   <p><strong>Segurança em aplicações</strong></p>
 
   <a href="https://br.linkedin.com/in/jakeline-fernandes"><img src="./assets/linkedin.svg" alt="LinkedIn"></a>
-  <a href="https://jakelinefernandess.github.io/portfolio/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-176457?style=for-the-badge" alt="Portfólio"></a>
+  <a href="https://jakelinefernandess.github.io/portfolio/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-7038B4?style=for-the-badge" alt="Portfólio"></a>
 </div>
 
 ## Sobre mim
@@ -27,7 +27,7 @@ Liderei por dois anos o programa de capacitação em segurança para profissiona
 
 ### ♿ Acessibilize
 
-Idealizei e liderei a criação de um aplicativo para encontrar e avaliar locais de lazer acessíveis. O projeto foi reconhecido na **Feira de Inovação da UFABC**.
+Idealizei e liderei a criação de um aplicativo para encontrar e avaliar locais de lazer acessíveis. O projeto foi reconhecido na **Feira de Inovação da Universidade Federal do ABC**.
 
 ### 🤖 Agente de IA para priorização de vulnerabilidades
 
@@ -35,11 +35,30 @@ Cada equipe tinha cerca de **5 mil vulnerabilidades** acumuladas. O agente organ
 
 ## Ferramentas
 
-| Segurança | Cloud |
-| --- | --- |
-| Veracode · SD Elements · SailPoint · Microsoft Entra ID | AWS · OCI · GCP |
+<table align="center">
+  <thead>
+    <tr>
+      <th scope="col">Segurança</th>
+      <th scope="col">Cloud</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">Veracode · SD Elements · SailPoint · Microsoft Entra ID</td>
+      <td align="center">AWS · OCI · GCP</td>
+    </tr>
+  </tbody>
+</table>
 
-## Formação e certificação
+## Formação, cursos e certificações
 
 - **Bacharelado em Ciência e Tecnologia** pela UFABC.
-- **Software Security Practitioner** pela Security Compass.
+
+### Cursos e certificações
+
+- **Software Security Practitioner** · Security Compass
+- **Software Security Architect** · ISC2
+- **Microsoft Entra ID**
+- **Oracle OCI Fast Track**
+- **Python com Orientação a Objetos** · Alura
+- **Flask: framework web de Python** · Alura
