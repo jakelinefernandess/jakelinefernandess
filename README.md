@@ -7,40 +7,9 @@
 
 ## Sobre mim
 
-Comecei em **Produtos Digitais** e hoje atuo em **Segurança da Informação**, com foco em segurança de aplicações, gestão de vulnerabilidades e cultura de segurança. Essa trajetória me ajuda a considerar os objetivos do negócio e as necessidades de quem desenvolve e de quem usa cada produto.
+Sou graduanda em **Ciência e Tecnologia** pela **Universidade Federal do ABC**. Comecei em **Produtos Digitais** e hoje atuo em **Segurança da Informação**, com foco em segurança de aplicações, gestão de vulnerabilidades e cultura de segurança. Essa trajetória me ajuda a considerar os objetivos do negócio e as necessidades de quem desenvolve e de quem usa cada produto.
 
-Sou graduanda em **Ciência e Tecnologia** pela **Universidade Federal do ABC**.
-
-## Como eu trabalho
-
-<table align="center">
-  <thead>
-    <tr>
-      <th scope="col">Área</th>
-      <th scope="col">Na prática</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Segurança de aplicações</td>
-      <td>Integro segurança ao ciclo de desenvolvimento com Security by Design e SSDLC.</td>
-    </tr>
-    <tr>
-      <td>Gestão de vulnerabilidades</td>
-      <td>Analiso e priorizo vulnerabilidades com base no risco.</td>
-    </tr>
-    <tr>
-      <td>Modelagem de ameaças</td>
-      <td>Identifico ameaças e traduzo os cenários em requisitos de segurança.</td>
-    </tr>
-    <tr>
-      <td>Cultura de segurança</td>
-      <td>Capacito equipes e facilito a colaboração entre áreas.</td>
-    </tr>
-  </tbody>
-</table>
-
-## Projetos e iniciativas
+## Projetos
 
 ### 🛡️ Security Champions
 
